@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFczFDm63BBi4VKtM9i3BFUJvfSu2QPKhtBxS+6c6S2LGRFgOrDvhhI5CrnRFmi+DuEI4nN4WnC9HdT6CJUXYg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\The_Game\\The_Game\\The_Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Expert\\.nuget\\packages\\consoletableext\\3.1.9\\consoletableext.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
